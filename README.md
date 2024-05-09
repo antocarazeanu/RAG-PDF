@@ -1,6 +1,6 @@
-Teacher At-Home
+# Teacher At-Home #
 
-Carazeanu Antonio and Craciun Alexandru
+# Carazeanu Antonio and Craciun Alexandru #
 
 This Python script uses the Streamlit library to create a web application that allows students to upload a PDF document of their homework or lesson and ask questions about its content. The application uses OpenAI's GPT-3 model to generate responses to the user's questions, effectively providing a self-correction mechanism.
 
